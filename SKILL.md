@@ -1,5 +1,5 @@
 ---
-name: Remotion Vibe Maker
+name: remotionvibemaker
 description: 豆包PC本地电脑Agent，一键完成Remotion环境部署、生成Vibe代码动画、渲染MP4——仅限Windows个人学习
 author: dy-hashiqi
 ---

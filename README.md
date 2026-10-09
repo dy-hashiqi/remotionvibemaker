@@ -1,4 +1,4 @@
-# Remotion Vibe Maker
+# remotionvibemaker
 
 > 作者：dy-hashiqi
 
