@@ -1,29 +1,29 @@
 # Remotion Vibe Maker
 
-> Author: dy-hashiqi
+> 作者：dy-hashiqi
 
-A Doubao PC custom skill pack that lets the local-computer agent set up Remotion automatically and produce code animations / Vibe knowledge animations.
+豆包PC自定义技能包，让本地电脑Agent自动搭建Remotion环境，制作代码动画 / Vibe知识动画。
 
-## Prerequisites
+## 前置要求
 
-1. Windows OS
-2. Doubao PC client + Doubao Pro subscription (local-computer Work Tasks)
-3. Users must obtain Node.js and Remotion from official channels on their own (both are open-source and free)
+1. Windows系统
+2. 豆包PC客户端 + 豆包专业版订阅（本地电脑工作任务）
+3. 用户自行从官方渠道获取 Node.js 和 Remotion（均为开源免费项目）
 
-## How to Use
+## 使用方法
 
-1. Download SKILL.md from this repo; in Doubao PC go to Skills → Upload Skill and import the folder
-2. Create a new [Work Task], set the execution environment to Local Computer, and enable this skill
-3. Send: `Start deploying the Remotion environment`
-4. After deployment, send: `Generate animation code from the script below 【paste your script】`
-5. Once the preview looks good, send: `Render and export MP4`
+1. 下载本仓库的 SKILL.md；在豆包PC中进入 技能 → 上传技能，选择文件夹导入
+2. 新建【工作任务】，执行环境选择 本地电脑，启用本技能
+3. 发送指令：`开始部署Remotion环境`
+4. 部署完成后，发送：`根据下面的文案生成动画代码【粘贴你的文案】`
+5. 预览满意后，发送：`渲染导出MP4`
 
-## Three Starter Commands (copy-ready)
+## 三条启动指令（可直接复制）
 
-1. Deploy environment: `Start deploying the Remotion environment`
-2. Generate animation code: `Generate animation code from the script below 【paste your script】`
-3. Render and export: `Render and export MP4`
+1. 部署环境：`开始部署Remotion环境`
+2. 生成动画代码：`根据下面的文案生成动画代码【粘贴你的文案】`
+3. 渲染导出：`渲染导出MP4`
 
-## Disclaimer
+## 免责声明
 
-This tool is for personal learning only. AI control of your computer carries risk — back up your files before use. Node.js and Remotion are open-source projects; obtain them from official channels yourself. This repo does not provide software installers.
+本工具仅用于个人学习；AI操控电脑存在风险，操作前务必备份电脑文件；Node.js、Remotion 为开源项目，请自行从官方渠道获取，本仓库不提供软件安装包。
